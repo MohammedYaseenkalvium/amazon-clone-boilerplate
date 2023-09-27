@@ -156,4 +156,43 @@
 #leo{
     position: relative;
     left: 100px;
+    height: 40px;
+    bottom: 5px;
+}
+#rt{
+    position: relative;
+    bottom: 5px;
+}
+#bd{
+    background-image: url("https://github.com/MohammedYaseenkalvium/amazon-clone-boilerplate/blob/main/assets/background%20picture.png?raw=true");
+    height: 100%;
+}
+#div1{
+    position: relative;
+    top:40px;
+
+}
+#upgrade{
+    margin-top: 10px;
+    display: flex;
+    height: 400px;
+    position: relative;
+    right: 90px;
+    align-items: end;
+
+    
+    
+}
+#bd{
+    display: flex;
+
+}
+#div2{
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+#div1head{
+    position: relative;
+    left: 190px;
 }
