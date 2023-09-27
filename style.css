@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+
+}
+#header{
+    display: flex;
+    background-color: #121921;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+}
+#hello{
+    color: #6D7981;
+}
+#select-address{
+    padding-left: 10px;
+    position: relative;
+    left: 6px;
+}
+#gps{
+    position: relative;
+    right: -2px;
+    filter: invert(1);
+    top: 20px;
+}
+#all{
+    position: relative;
+    height: 40px;
+    width: 45px;
+    top: -1px;
+    right: 55px;
+    border-radius: 5px;
+}
+#search{
+    position: relative;
+    height: 34px;
+    width: 600px;
+    top: 0px;
+    right: 83px;
+    border-radius: 5px;
+}
+#icon{
+    background-color: #FBBE67;
+    position: absolute;
+    bottom: 688px;
+    left: 1015px;
+    height: 30px;
+    margin-left: 0px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 0 10px 10px 1px;
+}
+#search1{
+    height:34px;
+    display: flex;}
+#india{
+    height: 20px;
+    position: relative;
+    top: 10px;
+    right: 80px;
+}
+#sign{
+    position: relative;
+    right: 50px;
+    color: white;
+}
+#select-address2{
+    color: white;
+}
+#returns{
+    position: relative;
+    right: 50px;
+    color: white;
+}
+#cart{
+    position: relative;
+    right: 30px;
+}
+#cart-2{
+    color: white;
+    position: relative;
+    right: 25px;
+    top: 10px;
+    font-size: 25px;
+}
+#header-2{
+    display: flex;
+    justify-content: space-between;
+    background-color: #243040;
+    color: white;
+    padding-top: 10px;
+    height: 35px;
+
+}
+#burger{
+    position: relative;
+    left: 10px;
+}
+#bs{
+    position: relative;
+    right: 13px;
+}
+#Mb{
+    position: relative;
+    right: 15px;
+}
+#cs{
+    position: relative;
+    right: 20px;
+}
+#td{
+    position: relative;
+    right: 20px;
+}
+#Fn{
+    position: relative;
+    right: 20px;
+}
+#Es{
+    position: relative;
+    right: 24px;
+}
+#pr{
+    position: relative;
+    right: 24px;
+}
+#rel{
+    position: relative;
+    right: 24px;
+}
+#hm{
+    position: relative;
+    right: 24px;
+}
+#Apay{
+    position: relative;
+    right: 24px;
+}
+#ds{
+    position: relative;
+    top: 10px;
+}
+#pd{
+    position: relative;
+    bottom: 12px;
+    left: 100px;
+    font-size: x-large;
+}
+#day{
+    font-size: small;
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+#leo{
+    position: relative;
+    left: 100px;
+}
